@@ -6,7 +6,7 @@
 ## 💻 About Me
 
 - 🎓 3rd-year student at Ben Gurion University pursuing a bachelor's degree in computer science with a focus on Data Science.
-- 🔍 Actively seeking job opportunities in developer or data-related roles.
+- 🔍 Actively seeking job opportunities as a developer or data-related roles.
 - 💡 Problem solver, creative thinker, fast learner, and highly motivated individual.
 - 💼 Previously worked as a product analyst at Outbrain, gaining valuable experience in data analysis and product development.
 - 🎖️ Former commander in Unit 8200, gaining leadership and problem-solving skills in a high-pressure environment.
