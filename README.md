@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Noa Cohanim 👨‍💻
 
-![Hello GIF](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="Hello GIF" width="200">
 
 
 ## 💻 About Me
