@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Noa Cohanim 👨‍💻
 
-![GIF](<iframe src="https://giphy.com/embed/Cmr1OMJ2FN0B2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2">via GIPHY</a></p>)
+![Hello GIF](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+
 
 ## 💻 About Me
 
@@ -28,5 +29,5 @@
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me through [LinkedIn]www.linkedin.com/in/noa-cohanim-42a991197 for collaborations or job opportunities!
+Feel free to reach out to me through www.linkedin.com/in/noa-cohanim-42a991197 for collaborations or job opportunities!
 
