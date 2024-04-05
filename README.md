@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋, I'm Noa Cohanim 👨‍💻
 
-<!--
-**NoaCohanim/NoaCohanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF](<iframe src="https://giphy.com/embed/Cmr1OMJ2FN0B2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2">via GIPHY</a></p>)
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 3rd-year student at Ben Gurion University pursuing a bachelor's degree in computer science with a focus on Data Science.
+- 🔍 Actively seeking job opportunities in developer or data-related roles.
+- 💡 Problem solver, creative thinker, fast learner, and highly motivated individual.
+- 💼 Previously worked as a product analyst at Outbrain, gaining valuable experience in data analysis and product development.
+- 🎖️ Former commander in Unit 8200, gaining leadership and problem-solving skills in a high-pressure environment.
+
+
+
+## 🛠️ Skills
+
+- Programming Languages: Python, Java, SQL
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, ML algorithms 
+- Web Development: HTML, CSS, JavaScript
+- Tools & Technologies: Git, GitHub, Jupyter Notebook, Docker
+
+## 📚 Projects
+
+- **Project 1:** Set cards Game in Java using multi-threading. Link: https://github.com/NoaCohanim/Set-Cards-Game.git
+- **Project 2:** Stomp Server for WorldCup Notifications (C++ & Java). Link:https://github.com/NoaCohanim/StompServer.git
+- **Project 3:** Coalition Race Simulation (OOP and memory management in C++). Link: https://github.com/NoaCohanim/Election-Race.git
+
+## 📫 Connect with Me
+
+Feel free to reach out to me through [LinkedIn]www.linkedin.com/in/noa-cohanim-42a991197 for collaborations or job opportunities!
+
